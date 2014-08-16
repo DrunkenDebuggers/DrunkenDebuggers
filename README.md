@@ -28,6 +28,7 @@ Mini-Projects
 * Anyone can start working on any project
 * Teams are preferred to lone warriors
 * Completed/Solved projects should be published under an open license
+  * It is recommended to use Git so all finished projects can be forked under [the main DrunkenDebuggers repository](https://github.com/DrunkenDebuggers/)
 
 Booze
 -----
@@ -37,9 +38,13 @@ Booze
 * Contributing to the basic supply is always welcome
 * Everyone is encouraged to invite others for drinks
 
+Registration
+------------
+
+DrunkenDebuggers should always be free for anyone to join, but to prevent spamming/trolling and - more importantly - to help establishing personal contacts organizers are encouraged to require registrations in person.
+
 Licence
 -------
 
-Drunken Debuggers is available under Creative Commons Attribution-Non Commercial-Share Alike license (4.0)
+Drunken Debuggers is available under [Creative Commons Attribution-Non Commercial-Share Alike license (4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
