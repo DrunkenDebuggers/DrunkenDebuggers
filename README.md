@@ -1,13 +1,13 @@
 Drunken Debuggers
 -----------------
 
-    "Your eyes are red from sleep deprivation. 
-    Your hands are shaking, the body is turning on its sirens of caffeine overdose. 
-    On the screen the debugger that once felt like home looks back at you angrily.
-    You open another can of beer and close your eyes.
-    As the cold nectar slips down your throat, your mind switches itself off for a moment.
-    And when it comes back online, you finally get it.
-    The instruction pointer shows 0x41414141."
+>"Your eyes are red from sleep deprivation. 
+Your hands are shaking, the body is turning on its sirens of caffeine overdose. 
+On the screen the debugger that once felt like home looks back at you angrily.
+You open another can of beer and close your eyes.
+As the cold nectar slips down your throat, your mind switches itself off for a moment.
+And when it comes back online, you finally get it.
+The instruction pointer shows 0x41414141."
 
 Drunken Debuggers is a workshop pattern that provides space, ideas and booze for those who want to sharpen their reversing, coding and drinking skills during hacking events.
 
